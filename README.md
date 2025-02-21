@@ -9,7 +9,7 @@
 ## Habilidades
 - Linguagens: [Python, JavaScript, C#.]
 - Ferramentas: [Docker, Git, FireBase.]
-- Frameworks: [React, Django, Anjular.]
+- Frameworks: [React, Django, Node]
 
 
 ## Contato
