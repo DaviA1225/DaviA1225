@@ -7,7 +7,7 @@
 - 🧑‍💻 Apaixonado por E-learning e Machine Learning.
 
 ## Habilidades
-- Linguagens: [Python, JavaScript, C#.]
+- Linguagens: [Python, JavaScript, HTML.]
 - Ferramentas: [Docker, Git, FireBase.]
 - Frameworks: [React, Django, Node]
 
